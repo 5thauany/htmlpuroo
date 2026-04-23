@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Oxanium:wght@200..800&display=swap');
+
+body
+{
+        font-family:"Oxanium";
+        color: #1D2A2E;
+}
+
+h2
+{
+    color: #325257;
+    background-color: #88B5B4;
+}
+
+div.bdy1
+{
+        width: 500px;
+}
+
+div.bdy2
+{ 
+       width: 500px; 
+}
+
+div.wki
+{ 
+       width: 100%;
+}
+
+table, th, td
+{
+    background-color: #f9f9f9;
+    border: solid #4e6465;
+    border-width: 2px; 
+    width: 100%;
+}
+
+a:link
+{
+    color: #12adc5;
+}
